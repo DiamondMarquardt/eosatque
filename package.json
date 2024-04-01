@@ -1,0 +1,37 @@
+{
+  "name": "eosatque",
+  "description": "Composable and reusable style sheets.",
+  "version": "1.0.0",
+  "author": "LavonneParisian",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DiamondMarquardt/eosatque.git"
+  },
+  "keywords": [
+    "jss",
+    "facilis",
+    "esse",
+    "at",
+    "css",
+    "components",
+    "dolor"
+  ],
+  "scripts": {},
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://www.opensource.org/licenses/mit-license.php"
+    }
+  ],
+  "main": "./lib/index.js",
+  "engines": {
+    "node": ">=0.8.0"
+  },
+  "devDependencies": {
+    "browserify": "^11.0.0",
+    "uglify-js": "^2.4.15",
+    "qunitjs": "^1.15.0",
+    "xpkg": "^0.2.0"
+  },
+  "homepage": "https://github.com/DiamondMarquardt/eosatque.git"
+}
